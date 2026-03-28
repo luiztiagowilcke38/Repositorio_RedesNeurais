@@ -1,7 +1,5 @@
 # Redes Neurais em Python - Livro de Luiz Tiago Wilcke
 
-Este repositório contém 34 scripts fundamentais e avançados de Redes Neurais implementados do zero usando apenas **NumPy**.
-
 ## Estrutura do Projeto
 
 ### 01. Básico
